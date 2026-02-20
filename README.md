@@ -15,8 +15,7 @@
 ✦ **Microsoft Excel**  
 ✦ **Analytical Thinking**  
 ✦ **Problem Solving**  
-✦ **Communication Skills**  
-✦ **Presentation Skills**
+✦ **Communication Skills**
 
 ---
 
