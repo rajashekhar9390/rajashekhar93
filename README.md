@@ -1,67 +1,46 @@
 # Hi there 👋, I'm Rajashekhar Kappa
 
-𝗔 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝘁 𝗳𝗿𝗼𝗺 𝗜𝗻𝗱𝗶𝗮
+## ☁️ GIS Engineer Exploring the World of Azure Data Engineering
 
-![Profile Views](https://komarev.com/ghpvc/?username=rajashekhar9390&style=flat-square)
+🌱 Currently working as a GIS Engineer and building hands-on skills in Azure Data Engineering, ETL Pipelines, and Big Data Processing.
 
-🌱 I’m currently learning **Data Analytics & Business Intelligence!**
+## 🚀 Skills & Technologies
 
----
+✦ SQL
+✦ Python
+✦ PySpark
+✦ Azure Data Factory (ADF)
+✦ Azure Databricks
+✦ ETL Pipelines
+✦ PostgreSQL
+✦ GIS Data Processing
 
-## ✅ Key Skills
+## 🏅 Achievement
 
-✦ **Power BI**  
-✦ **SQL**  
-✦ **Microsoft Excel**  
-✦ **Analytical Thinking**  
-✦ **Problem Solving**  
-✦ **Communication Skills**
-
----
-
-## 🏅 Achievements
-
-🏅 **HackerRank SQL – 5 Star Gold Badge**
-
----
+🏅 HackerRank SQL – 5 Star Gold Badge
 
 ## 👨‍💻 Projects
 
-All of my projects are available at –  
-👉 https://github.com/rajashekhar9390/rajashekhar  
+👉 Explore my projects here:
+https://github.com/rajashekhar9390
 
----
+## 📚 Current Focus
 
-## ⚡ Fun Fact
+Building practical projects using Azure, SQL, PySpark, and Databricks while improving cloud data engineering and data processing skills.
 
-I started my academic journey in **Commerce (B.Com – Computer Applications)** and transitioned into **Data Analytics**.  
-From accounting numbers to interactive dashboards — welcome to my **data analytics journey!** 📊🚀
+## ⚡ About Me
 
----
+Started my journey from Commerce (B.Com – Computer Applications), currently working in GIS Engineering, and now transitioning into the world of Cloud & Data Engineering.
 
-- 💬 Ask me about **Data Analytics & Business Analytics**
-- 📫 How to reach me: **rajashekharkappa@gmail.com**
+## 📫 Reach Me
 
----
+✉️ [rajashekharkappa@gmail.com](mailto:rajashekharkappa@gmail.com)
 
-## 🛠 Languages and Tools
+## 🔗 Connect With Me
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-[![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+LinkedIn
+https://www.linkedin.com/in/rajashekhar-kappa-5bb83b300
 
----
+HackerRank
+https://www.hackerrank.com/profile/rajashekharkappa
 
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajashekhar-k)  
-https://www.linkedin.com/in/rajashekhar-k  
-
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/rajashekharkappa)  
-https://www.hackerrank.com/profile/rajashekharkappa  
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajashekhar9390/rajashekhar)  
-https://github.com/rajashekhar9390/rajashekhar  
-
----
