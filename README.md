@@ -1,46 +1,114 @@
-# Hi there 👋, I'm Rajashekhar Kappa
+<h1 align="center">Hi 👋, I'm Rajashekhar Kappa</h1>
 
-## ☁️ GIS Engineer Exploring the World of Azure Data Engineering
+<h3 align="center">
+Azure Data Engineer | Azure Data Factory | Azure Databricks | PySpark | SQL | Power BI
+</h3>
 
-🌱 Currently working as a GIS Engineer and building hands-on skills in Azure Data Engineering, ETL Pipelines, and Big Data Processing.
+---
 
-## 🚀 Skills & Technologies
+## 👨‍💻 About Me
 
-✦ SQL
-✦ Python
-✦ PySpark
-✦ Azure Data Factory (ADF)
-✦ Azure Databricks
-✦ ETL Pipelines
-✦ PostgreSQL
-✦ GIS Data Processing
+I'm passionate about building modern cloud-based data engineering solutions using Microsoft Azure technologies.
 
-## 🏅 Achievement
+Currently working as a **GIS Engineer**, while actively transitioning into **Azure Data Engineering** by building real-world end-to-end data engineering projects.
 
-🏅 HackerRank SQL – 5 Star Gold Badge
+I enjoy designing scalable ETL pipelines, transforming raw data into meaningful insights, and learning modern cloud data platforms.
 
-## 👨‍💻 Projects
+---
 
-👉 Explore my projects here:
-https://github.com/rajashekhar9390
+## 🚀 Technical Skills
 
-## 📚 Current Focus
+### ☁️ Cloud
 
-Building practical projects using Azure, SQL, PySpark, and Databricks while improving cloud data engineering and data processing skills.
+- Microsoft Azure
+- Azure Data Factory (ADF)
+- Azure Data Lake Storage Gen2 (ADLS Gen2)
+- Azure Databricks
+- Azure SQL Database
 
-## ⚡ About Me
+### 💻 Programming
 
-Started my journey from Commerce (B.Com – Computer Applications), currently working in GIS Engineering, and now transitioning into the world of Cloud & Data Engineering.
+- Python
+- PySpark
+- SQL
 
-## 📫 Reach Me
+### 📊 Analytics & Visualization
 
-✉️ [rajashekharkappa@gmail.com](mailto:rajashekharkappa@gmail.com)
+- Power BI
+- Microsoft Excel
 
-## 🔗 Connect With Me
+### 🗄️ Data Engineering
 
-LinkedIn
-https://www.linkedin.com/in/rajashekhar-kappa-5bb83b300
+- ETL / ELT Pipelines
+- Delta Lake
+- Medallion Architecture
+- Data Modeling
+- Data Transformation
 
-HackerRank
-https://www.hackerrank.com/profile/rajashekharkappa
+### 🛠️ Tools
+
+- Git
+- GitHub
+- Visual Studio Code
+- Databricks Workspace
+
+---
+
+## 📂 Featured Projects
+
+### 🛒 Retail Sales Analytics – Azure Data Engineering
+
+An end-to-end Azure Data Engineering project implementing the Medallion Architecture using Azure Data Factory, Azure Data Lake Storage Gen2, Azure Databricks, Delta Lake, Azure SQL Database, and Power BI.
+
+### 🚦 GIS Road Asset & Traffic Analytics Platform
+
+Designed and implemented a cloud-based analytics solution for processing GIS road asset and traffic data using Azure Data Engineering services.
+
+---
+
+## 🏆 Certifications & Achievements
+
+### 📜 Microsoft Certifications
+
+- 🥇 **Microsoft Certified: Fabric Data Engineer Associate (DP-700)**
+- 🥈 **HackerRank SQL (Intermediate) Certificate**
+- 🥉 **HackerRank SQL (Basic) Certificate**
+
+### 🏅 Achievements
+
+- ⭐ **HackerRank SQL – 5★ Gold Badge**
+  
+- 🚀 Built multiple end-to-end Azure Data Engineering projects using Azure Data Factory, Azure Databricks, PySpark, Delta Lake, Azure SQL Database, and Power BI.
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Azure Data Engineering
+- Apache Spark Optimization
+- Delta Lake
+- Microsoft Fabric
+- Azure DevOps for Data Engineering
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** rajashekharkappa@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/rajashekhhar-kappa-5bb83b300
+
+🐙 **GitHub:** https://github.com/rajashekhar9390
+
+🏅 **HackerRank:** https://www.hackerrank.com/profile/rajashekharkappa
+
+---
+
+## ⚡ Career Objective
+
+Seeking opportunities as an **Azure Data Engineer**, where I can apply my cloud, SQL, PySpark, and ETL development skills to build scalable, data-driven solutions while continuously learning and growing in the Microsoft Azure ecosystem.
+
+---
+
+⭐ **Thank you for visiting my profile! If you find my projects interesting, feel free to explore my repositories and connect with me.**
 
