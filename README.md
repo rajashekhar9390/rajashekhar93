@@ -2,8 +2,8 @@
 <h3 align="center">Azure Data Engineer | ADF • Databricks • PySpark • SQL • Power BI</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rajashekhar-kappa-5bb83b300"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:rajashekharkappa@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rajashekharks"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:krajashekhar36@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://www.hackerrank.com/profile/rajashekharkappa"><img src="https://img.shields.io/badge/HackerRank-5★_Gold-2EC866?style=flat&logo=hackerrank&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=rajashekhar9390&style=flat&color=blue" alt="profile views" />
   <img src="https://img.shields.io/badge/Open_to-Work-brightgreen?style=flat" />
@@ -13,7 +13,7 @@
 
 ### 🎯 What I'm Looking For
 
-Actively seeking an **Azure Data Engineer** role — building scalable ETL/ELT pipelines and cloud data solutions end-to-end. Currently a GIS Engineer by day, hands-on Azure Data Engineering builder by practice: ingestion → transformation → modeling → BI reporting.
+Actively seeking an **Azure Data Engineer** role — building scalable ETL/ELT pipelines and cloud data solutions end-to-end. Currently working as a GIS Engineer at RMSI, hands-on Azure Data Engineering builder by practice: ingestion → transformation → modeling → BI reporting.
 
 **Recruiters:** jump to [Featured Projects](#-featured-projects) → [Certifications](#-certifications--achievements) → [Contact](#-lets-connect)
 
@@ -38,9 +38,16 @@ Actively seeking an **Azure Data Engineer** role — building scalable ETL/ELT p
 |---|---|
 | ☁️ **Cloud (Azure)** | Data Factory, Databricks, ADLS Gen2, Azure SQL Database |
 | 💻 **Programming** | Python, PySpark, SQL |
-| 🏗️ **Data Engineering** | ETL/ELT Pipelines, Delta Lake, Medallion Architecture, Data Modeling |
-| 📊 **Analytics/BI** | Power BI, Excel |
+| 🏗️ **Data Engineering** | ETL/ELT Pipelines, Delta Lake, Medallion Architecture, Data Validation & Quality, Data Modeling |
+| 📊 **Analytics/BI** | Power BI (DAX), Excel |
 | 🛠️ **Tools** | Git, GitHub, VS Code, Databricks Workspace |
+
+---
+
+### 💼 Current Role
+
+**GIS Engineer — RMSI** *(May 2025 – Present)*
+Processing and validating large-scale geospatial datasets using SQL and Python, performing data cleansing/transformation, building QC workflows, and developing hands-on Azure Data Engineering projects (ADF, Databricks, PySpark, ADLS Gen2) alongside day-to-day GIS work.
 
 ---
 
@@ -60,8 +67,11 @@ Domain-driven platform combining GIS road asset data with traffic analytics — 
 
 ### 🏆 Certifications & Achievements
 
-- 🏅 **Microsoft Certified: Fabric Data Engineer Associate (DP-700)**
-- 🏅 HackerRank SQL (Intermediate) & HackerRank SQL (Basic)
+- 🏅 SQL: Data Reporting and Analysis
+- 🏅 SQL for Data Analysis
+- 🏅 Advanced Power BI: DAX Language, Formulas, and Calculations
+- 🏅 Excel Essential Training (Microsoft 365)
+- 🏅 HackerRank SQL (Basic)
 - ⭐ HackerRank SQL — 5★ Gold Badge
 - ⭐ Built end-to-end Azure Data Engineering projects, ingestion through BI reporting
 
@@ -87,8 +97,8 @@ Advanced Azure Data Engineering · Apache Spark Performance Optimization · Micr
 
 ### 📫 Let's Connect
 
-📧 **Email:** [rajashekharkappa@gmail.com](mailto:rajashekharkappa@gmail.com)
-💼 **LinkedIn:** [rajashekhar-kappa](https://www.linkedin.com/in/rajashekhar-kappa-5bb83b300)
+📧 **Email:** [krajashekhar36@gmail.com](mailto:krajashekhar36@gmail.com)
+💼 **LinkedIn:** [rajashekharks](https://www.linkedin.com/in/rajashekharks)
 🐙 **GitHub:** [@rajashekhar9390](https://github.com/rajashekhar9390)
 🏅 **HackerRank:** [rajashekharkappa](https://www.hackerrank.com/profile/rajashekharkappa)
 
